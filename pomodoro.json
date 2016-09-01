@@ -183,5 +183,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "paper reading"
+  },
+  "1472742851": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "emails"
   }
 }
