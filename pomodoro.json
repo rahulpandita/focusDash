@@ -208,5 +208,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "emails"
+  },
+  "1473694076": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "paper skimming"
   }
 }
