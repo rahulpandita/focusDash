@@ -223,5 +223,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "TTS"
+  },
+  "1473782051": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "email"
   }
 }
