@@ -233,5 +233,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "controller"
+  },
+  "1473871978": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "email"
   }
 }
