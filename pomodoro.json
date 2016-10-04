@@ -273,5 +273,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "ICON Presentation"
+  },
+  "1475596257": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "Neural Networks course"
   }
 }
