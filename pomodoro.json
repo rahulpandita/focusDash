@@ -283,5 +283,8 @@
     "pomodoro": true,
     "tick": true,
     "message": "Telementry"
+  },
+  "1476821701": {
+    "message": "no goal specified"
   }
 }
