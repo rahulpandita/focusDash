@@ -286,5 +286,10 @@
   },
   "1476821701": {
     "message": "no goal specified"
+  },
+  "1478533181": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "Program Comprehension papers"
   }
 }
