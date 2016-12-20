@@ -351,5 +351,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "NLP Service"
+  },
+  "1482248806": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "Recomendation"
   }
 }
