@@ -361,5 +361,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "Visa Letters"
+  },
+  "1486396014": {
+    "length": 20,
+    "tick": true,
+    "message": "CV"
   }
 }
