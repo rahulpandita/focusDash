@@ -366,5 +366,10 @@
     "length": 20,
     "tick": true,
     "message": "CV"
+  },
+  "1486396072": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "CV"
   }
 }
