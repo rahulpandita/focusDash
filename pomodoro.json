@@ -471,5 +471,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "ODC"
+  },
+  "1487032625": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "no goal specified"
   }
 }
