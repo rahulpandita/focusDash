@@ -531,5 +531,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "no goal specified"
+  },
+  "1489520284": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "lingo"
   }
 }
