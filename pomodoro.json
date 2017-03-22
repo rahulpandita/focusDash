@@ -556,5 +556,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "Research"
+  },
+  "1490199020": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "Lingo"
   }
 }
