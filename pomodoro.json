@@ -586,5 +586,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "Journal Review"
+  },
+  "1494439086": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "Excel"
   }
 }
