@@ -736,5 +736,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "Ontology"
+  },
+  "1523475356": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "Goal Encoding"
   }
 }
