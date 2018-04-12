@@ -741,5 +741,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "Goal Encoding"
+  },
+  "1523548071": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "Design Patterns Primer"
   }
 }
