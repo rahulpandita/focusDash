@@ -796,5 +796,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "Video Encoding"
+  },
+  "1523889432": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "Chat bot"
   }
 }
