@@ -856,5 +856,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "ICSM Reviews"
+  },
+  "1524268815": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "Chatbots"
   }
 }
