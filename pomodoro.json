@@ -931,5 +931,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "Office Clean Up"
+  },
+  "1524676220": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "Goal Encoding OSU"
   }
 }
