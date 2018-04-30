@@ -1006,5 +1006,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "COBOL Ontologies Encoding"
+  },
+  "1525108392": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "Goal Encoding"
   }
 }
