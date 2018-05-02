@@ -1046,5 +1046,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "ICSME Review"
+  },
+  "1525281550": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "Goal Encoding"
   }
 }
