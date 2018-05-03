@@ -1066,5 +1066,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "Client Survey"
+  },
+  "1525367663": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "Goal Encoding"
   }
 }
