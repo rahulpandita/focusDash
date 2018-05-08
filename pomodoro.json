@@ -1101,5 +1101,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "NLP Task"
+  },
+  "1525799402": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "Misc."
   }
 }
