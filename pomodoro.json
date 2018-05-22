@@ -1261,5 +1261,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "Extract Literals and Code Comments"
+  },
+  "1526999743": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "Abduction Reading"
   }
 }
