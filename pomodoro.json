@@ -1376,5 +1376,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "JSS Review"
+  },
+  "1528820695": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "Jenkins-Gerrit commit hook"
   }
 }
