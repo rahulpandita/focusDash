@@ -1392,6 +1392,7 @@
     "tick": true,
     "message": "ICSE 2018"
   },
+<<<<<<< HEAD
   "1529423453": {
     "pomodoro": true,
     "tick": true,
@@ -1406,5 +1407,21 @@
     "pomodoro": true,
     "tick": true,
     "message": "UI Example"
+=======
+  "1528992413": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "test"
+  },
+  "1528992462": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "test"
+  },
+  "1528992584": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "test"
+>>>>>>> 2f049d0fcd2772e3bdc5a946c6239f03901fc852
   }
 }
