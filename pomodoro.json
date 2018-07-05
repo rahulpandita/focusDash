@@ -1486,5 +1486,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "Argumentation"
+  },
+  "1530817380": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "Sloman"
   }
 }
