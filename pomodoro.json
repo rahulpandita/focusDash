@@ -1531,5 +1531,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "DevOps Lecture 2"
+  },
+  "1531236993": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "TSE Review"
   }
 }
